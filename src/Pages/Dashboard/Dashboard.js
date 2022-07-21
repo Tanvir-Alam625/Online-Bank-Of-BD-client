@@ -12,7 +12,7 @@ const Dashboard = () => {
         <div className="drawer-content flex flex-col items-center justify-center">
           <label
             htmlFor="my-drawer-2"
-            className="btn bg-teal-600 drawer-button lg:hidden"
+            className="btn bg-green-600 drawer-button lg:hidden mb-56 -mt-96 mr-60"
           >
             Open Drawer
           </label>
