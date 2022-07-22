@@ -6,7 +6,6 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import {
-  useAuthState,
   useSignInWithEmailAndPassword,
   useSignInWithFacebook,
   useSignInWithGithub,
